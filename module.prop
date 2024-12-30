@@ -1,0 +1,6 @@
+id=uninstallshExecutor
+name=uninstall.sh Executor
+version=v0.1
+versionCode=1
+author=Rei Ryuki the Fixer
+description=Executes uninstall.sh of all removed modules at device boot.
