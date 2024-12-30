@@ -9,7 +9,6 @@
 
 ## Installation Guide & Download Link
 - Install this module https://www.pling.com/p/2236115/ via Kitsune Mask app or Magisk app or KernelSU app or Apatch app or Recovery if Magisk/Kitsune Mask installed
-- Reboot
 
 ## Optionals
 - Global: https://t.me/ryukinotes/35
